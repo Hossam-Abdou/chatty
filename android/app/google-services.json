@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "509186990141",
+    "firebase_url": "https://chat-app-test-c9013-default-rtdb.firebaseio.com",
+    "project_id": "chat-app-test-c9013",
+    "storage_bucket": "chat-app-test-c9013.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509186990141:android:269a0a733c1ac169e6ca54",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6htEXhLbMNSdtOCdilo5I0T5A3jDQ9_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509186990141:android:8b3f968bbe76cb7be6ca54",
+        "android_client_info": {
+          "package_name": "com.example.chatty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6htEXhLbMNSdtOCdilo5I0T5A3jDQ9_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
